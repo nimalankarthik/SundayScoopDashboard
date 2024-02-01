@@ -2,5 +2,3 @@ axios
 tailwindcss
 postcss
 autoprefixer
-@material-tailwind/react
-@heroicons/react
